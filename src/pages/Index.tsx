@@ -112,7 +112,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-gradient-earth">
       {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center px-4">
+      <section className="relative h-screen flex items-center justify-center px-4 -mt-16 pt-16">
         <div 
           className="absolute inset-0 bg-gradient-to-r from-black/60 to-black/30"
           style={{
